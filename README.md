@@ -16,9 +16,9 @@ A coleta de dados das escolas tem caráter declaratório e é dividida em duas e
 
 **Cobertura temporal**: 2007 - 2020
 
-Base de dados: https://basedosdados.org/dataset/br-inep-censo-escolar?bdm_table=turma
-Link do relatório: https://datastudio.google.com/reporting/34ac656d-a44f-45db-b2f9-46e2c056294a
-
 <div align="left">
 <img src="https://user-images.githubusercontent.com/71914264/192434774-6b8b1991-5a8c-4045-871f-fd0881d7aa33.png" width="700px" />
 </div>
+
+<p> Base de dados: https://basedosdados.org/dataset/br-inep-censo-escolar?bdm_table=turma </p>
+<p> Link do relatório: https://datastudio.google.com/reporting/34ac656d-a44f-45db-b2f9-46e2c056294a </p>
