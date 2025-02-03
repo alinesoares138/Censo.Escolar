@@ -76,7 +76,7 @@ GROUP BY ano, sigla_uf
 </span>
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/fec3f81d-2595-4482-ad4d-1de5d6f5a25c" width="700px" />
+<a href="https://lookerstudio.google.com/reporting/34ac656d-a44f-45db-b2f9-46e2c056294a"><img src="https://github.com/user-attachments/assets/fec3f81d-2595-4482-ad4d-1de5d6f5a25c" width="700px" />
 </div>
 
 <span align="left"> 
