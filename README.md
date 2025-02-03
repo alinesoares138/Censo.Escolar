@@ -67,7 +67,6 @@ SELECT
 FROM `basedosdados.br_inep_censo_escolar.turma` 
 WHERE sigla_uf = 'SP'
 GROUP BY ano, sigla_uf
-
 ```
 
 <span align="left"> 
@@ -77,7 +76,7 @@ GROUP BY ano, sigla_uf
 </span>
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/71914264/192434774-6b8b1991-5a8c-4045-871f-fd0881d7aa33.png" width="700px" />
+<img src="https://github.com/user-attachments/assets/fec3f81d-2595-4482-ad4d-1de5d6f5a25c" width="700px" />
 </div>
 
 <span align="left"> 
