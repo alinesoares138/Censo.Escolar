@@ -68,18 +68,6 @@ FROM `basedosdados.br_inep_censo_escolar.turma`
 WHERE sigla_uf = 'SP'
 GROUP BY ano, sigla_uf
 
---- Quantas escolas possuem sistema Braille?
-      Essas escolas possuem mais matrículas em comparação às outras?
-      Qual UF com mais displicina profissionalizante?
-      
---- Quantas escolas possuem disciplina profissionalizante?
-      Essas escolas possuem mais matrículas em comparação às outras?
-      Qual UF com mais displicina profissionalizante?
-      
---- Quantas escolas possuem recursos para baixa visão?
-      Essas escolas possuem mais matrículas em comparação às outras?
-      Qual UF com mais displicina profissionalizante?
---- 
 ```
 
 <span align="left"> 
@@ -87,7 +75,7 @@ GROUP BY ano, sigla_uf
 ### Extração de dados
   
 </span>
-(em andamento)
+
 <div align="left">
 <img src="https://user-images.githubusercontent.com/71914264/192434774-6b8b1991-5a8c-4045-871f-fd0881d7aa33.png" width="700px" />
 </div>
